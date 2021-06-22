@@ -1,5 +1,5 @@
 <?php
-namespace Staark\Dashboard\ActiveRecord\Interfaces;
+namespace Staark\Support\ActiveRecord\Interfaces;
 
 interface ActiveRecords
 {
